@@ -78,7 +78,7 @@ Required packages:
 1. Open and run `01_ctm-config.ipynb` in your Jupyter environment
 2. Execute all cells in order
 3. Use the interactive form to enter:
-   - **API Token**: Base64 encoded Control-M authentication token
+   - **API Token**: Control-M authentication token
    - **Hostname**: Control-M Enterprise Manager hostname (e.g., `ctm.company.com`)
    - **Port**: HTTPS port (typically `443` or `8443`)
 4. Click "Save Configuration" to create `.env` file
