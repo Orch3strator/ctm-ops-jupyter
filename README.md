@@ -38,6 +38,7 @@ The toolkit consists of three main notebooks:
 - Python 3.7 or higher
 - Jupyter Notebook or JupyterLab
 - Network access to Control-M Enterprise Manager
+- Control-M Automation API token
 
 ### Required Python Packages
 After copying the files to your Jupyter environment, install dependencies using:
@@ -48,7 +49,6 @@ pip install -r requirements.txt
 Required packages:
 - `pandas` - Data analysis and manipulation
 - `requests` - HTTP library for API calls
-- `ipywidgets` - Interactive widgets for Jupyter
 
 ### Control-M Requirements
 - Control-M automation API access
