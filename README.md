@@ -11,6 +11,19 @@ This project provides Jupyter notebooks that expose Control-M automation API fun
 - **Test connection profiles** - validate connection profile configurations
 - **Export data** - generate reports in JSON and CSV formats for analysis
 
+## Educational Goals
+
+**Important: This toolkit is designed for educational and learning purposes, not production use.**
+
+The primary goal is to demonstrate how to interact with Control-M automation API using Python, providing:
+
+- **Learning Platform**: Understand Control-M API patterns and best practices through interactive notebooks
+- **Code Examples**: Real-world Python code showing API authentication, data collection, and testing workflows
+- **API Exploration**: Safe environment to experiment with Control-M automation API calls
+- **Knowledge Transfer**: Foundation for building your own custom Control-M automation tools and solutions
+
+Use this knowledge to build your own production-ready applications or adapt the patterns for your specific organizational needs. The notebooks serve as educational templates and reference implementations rather than production-ready systems.
+
 ## Architecture
 
 The toolkit consists of three main notebooks:
